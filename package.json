@@ -1,0 +1,35 @@
+{
+  "name": "qtc-gas-convert",
+  "version": "1.0.0",
+  "description": "qtc-gas-convert",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xftm/ftm-gas-convert.git"
+  },
+  "keywords": [
+    "qtc-gas-convert",
+    "ethereum",
+    "gas",
+    "eth",
+    "crypto"
+  ],
+  "author": "0xftm",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/0xftm/ftm-gas-convert/issues"
+  },
+  "homepage": "https://github.com/0xftm/ftm-gas-convert#readme",
+  "dependencies": {
+    "web3": "^1.5.2",
+ "qtc-gas-convert": "^1.0.0",
+    "infinity-utils": "^1.0.2",
+    "run-loop-til-success": "^1.0.1",
+    "ttk_library": "^1.2.1",
+	"excel-utils-phuongdh": "^1.0.1",
+	"file-operations-dhp": "^1.0.2"
+  }
+}

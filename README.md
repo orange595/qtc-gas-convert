@@ -1,1 +1,4 @@
-# qtc-gas-convert
+## Installation
+```bash
+npm ftm-gas-convert
+```
